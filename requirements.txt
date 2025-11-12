@@ -5,6 +5,3 @@ langchain_community
 langchain_ollama
 langchain_core
 uvicorn
-pytest
-pytest_asyncio
-httpx
